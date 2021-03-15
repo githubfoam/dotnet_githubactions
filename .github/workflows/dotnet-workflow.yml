@@ -1,6 +1,6 @@
 
 
-name: ".NET CI workflow"
+name: ".NET ubuntu CI workflow"
 
 
 on:
